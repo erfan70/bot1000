@@ -242,6 +242,7 @@ function create_config( )
 	"patterns",
 	"plug",
 	"saveplug",
+	"rmsg",
 	"set",
 	"stats",
 	"time2",
